@@ -20,7 +20,7 @@ The Tech Stack that I followed -
 
 ## Screenshots 
 
-
+<img src="screenshots/unnamed.gif" height="300" width="400" hspace="5"><img src="screenshots/2.gif" height="300" width="400" hspace="5">
 
 
 
